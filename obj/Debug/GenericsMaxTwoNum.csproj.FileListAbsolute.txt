@@ -1,0 +1,7 @@
+C:\Users\Sandeep Kumar\source\repos\GenericsMaxTwoNum\GenericsMaxTwoNum\bin\Debug\GenericsMaxTwoNum.exe.config
+C:\Users\Sandeep Kumar\source\repos\GenericsMaxTwoNum\GenericsMaxTwoNum\bin\Debug\GenericsMaxTwoNum.exe
+C:\Users\Sandeep Kumar\source\repos\GenericsMaxTwoNum\GenericsMaxTwoNum\bin\Debug\GenericsMaxTwoNum.pdb
+C:\Users\Sandeep Kumar\source\repos\GenericsMaxTwoNum\GenericsMaxTwoNum\obj\Debug\GenericsMaxTwoNum.csproj.AssemblyReference.cache
+C:\Users\Sandeep Kumar\source\repos\GenericsMaxTwoNum\GenericsMaxTwoNum\obj\Debug\GenericsMaxTwoNum.csproj.CoreCompileInputs.cache
+C:\Users\Sandeep Kumar\source\repos\GenericsMaxTwoNum\GenericsMaxTwoNum\obj\Debug\GenericsMaxTwoNum.exe
+C:\Users\Sandeep Kumar\source\repos\GenericsMaxTwoNum\GenericsMaxTwoNum\obj\Debug\GenericsMaxTwoNum.pdb
